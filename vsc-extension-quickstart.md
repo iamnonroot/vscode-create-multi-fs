@@ -1,4 +1,4 @@
-![Demo](./assets/demo.gif)
+![Demo](https://raw.githubusercontent.com/iamnonroot/vscode-create-multi-fs/main/assets/demo.gif)
 
 # Create Multiple File System
 Creating multiple files and folders at the same time with a command.
