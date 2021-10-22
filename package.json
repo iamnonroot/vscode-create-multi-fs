@@ -61,5 +61,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/iamnonroot/vscode-create-multi-fs"
-	}
+	},
+	"license": "MIT",
+	"publisher": "iamnonroot"
 }
